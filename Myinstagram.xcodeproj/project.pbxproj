@@ -14,7 +14,6 @@
 		3E3AFFB61C880B5600870C2E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3E3AFFB41C880B5600870C2E /* LaunchScreen.storyboard */; };
 		3E3AFFC11C880B5600870C2E /* MyinstagramTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E3AFFC01C880B5600870C2E /* MyinstagramTests.swift */; };
 		3E3AFFCC1C880B5600870C2E /* MyinstagramUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E3AFFCB1C880B5600870C2E /* MyinstagramUITests.swift */; };
-		3E57AC7A1C9BD0D90069C460 /* viewUsername.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E57AC791C9BD0D90069C460 /* viewUsername.swift */; };
 		3E7123111C9A7D56009610AC /* Kumulos_ARMv7-Combined.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 3E71230D1C9A7D56009610AC /* Kumulos_ARMv7-Combined.a */; };
 		3E7123121C9A7D56009610AC /* Kumulos.m in Sources */ = {isa = PBXBuildFile; fileRef = 3E71230F1C9A7D56009610AC /* Kumulos.m */; };
 		3E7123141C9A7E2B009610AC /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3E7123131C9A7E2B009610AC /* SystemConfiguration.framework */; };
@@ -53,7 +52,6 @@
 		3E3AFFC71C880B5600870C2E /* MyinstagramUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MyinstagramUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3E3AFFCB1C880B5600870C2E /* MyinstagramUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyinstagramUITests.swift; sourceTree = "<group>"; };
 		3E3AFFCD1C880B5600870C2E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		3E57AC791C9BD0D90069C460 /* viewUsername.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = viewUsername.swift; sourceTree = "<group>"; };
 		3E71230C1C9A7D56009610AC /* Myinstagram-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Myinstagram-Bridging-Header.h"; sourceTree = "<group>"; };
 		3E71230D1C9A7D56009610AC /* Kumulos_ARMv7-Combined.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = "Kumulos_ARMv7-Combined.a"; sourceTree = "<group>"; };
 		3E71230E1C9A7D56009610AC /* Kumulos.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Kumulos.h; sourceTree = "<group>"; };
@@ -136,7 +134,6 @@
 				3E3AFFB21C880B5600870C2E /* Assets.xcassets */,
 				3E3AFFB41C880B5600870C2E /* LaunchScreen.storyboard */,
 				3E3AFFB71C880B5600870C2E /* Info.plist */,
-				3E57AC791C9BD0D90069C460 /* viewUsername.swift */,
 			);
 			path = Myinstagram;
 			sourceTree = "<group>";
@@ -366,7 +363,6 @@
 				3E3AFFAE1C880B5600870C2E /* ViewController.swift in Sources */,
 				3E7123121C9A7D56009610AC /* Kumulos.m in Sources */,
 				3E3AFFAC1C880B5600870C2E /* AppDelegate.swift in Sources */,
-				3E57AC7A1C9BD0D90069C460 /* viewUsername.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
